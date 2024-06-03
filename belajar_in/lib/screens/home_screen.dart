@@ -31,7 +31,7 @@ List<Icon> catIcons = [
 ];
 
 List imgList = [
-  "Flutter",
+  "Javascript",
   "Python",
   "C#",
   "Java",

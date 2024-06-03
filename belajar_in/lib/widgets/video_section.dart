@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 List videoList = [
-  'Introduction to FLutter',
+  'Introduction to Javascript',
   'Installing Java for Linux',
   'Setup Emulator in Windows',
   'Creating Our First App',
